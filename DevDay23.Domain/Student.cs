@@ -11,7 +11,6 @@ namespace DevDay23.Domain
         public Guid Id { get; set; }
         public string Name { get; set; }
         public string RA { get; set; }
-
         public int Age { get; set; }
     }
 }
